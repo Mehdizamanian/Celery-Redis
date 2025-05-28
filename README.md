@@ -1,2 +1,2 @@
 # Celery-Redis
-new app
+installing and configuring celery and redis in django
